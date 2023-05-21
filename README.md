@@ -27,7 +27,7 @@ git clone https://github.com/amanhex/Chat-Assist.git
 ```
 2. Navigate to the project directory:
 ```
-cd chatbot-project
+cd Chat-Assist
 ```
 3. Install the required dependencies:
 ```
