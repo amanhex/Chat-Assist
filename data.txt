@@ -5,7 +5,7 @@
   },
   {
     "question": "Hello",
-    "answer": "Hi, I'm an AI ChatBot, "Assist". How can I help you?"
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
   },
   {
     "question": "What is your name?",
