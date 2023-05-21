@@ -1,11 +1,11 @@
 [
   {
     "question": "Hi",
-    "answer": "Hi, I'm an AI ChatBot, 'Assist'. How can I help you?"
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
   },
   {
     "question": "Hii",
-    "answer": "Hi, I'm an AI ChatBot, 'Assist'. How can I help you?"
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
   },
   {
     "question": "Hello",
