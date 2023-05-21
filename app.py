@@ -4,6 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from nltk.tokenize import word_tokenize
 import string
 import json
+import nltk
 
 app = Flask(__name__)
 
@@ -60,4 +61,5 @@ def get_response():
     return jsonify({'response': responses[0], 'alternatives': responses[1:]})
 
 if __name__ == '__main__':
+    nltk.download('punkt')  # Download NLTK data if not already downloaded
     app.run(debug=True)
