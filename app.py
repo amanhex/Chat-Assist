@@ -19,7 +19,7 @@ def preprocess(text):
 
     # Join the tokens back into a single string
     preprocessed_text = ' '.join(tokens)
-    
+
     return preprocessed_text
 
 # Load training data from file
@@ -41,34 +41,31 @@ def train_chatbot(training_data):
 
     return vectorizer, query_vector
 
-@app.route('/get_response', methods=['POST'])
-def get_response():
-    user_input = request.json['user_input']
-    responses = get_chatbot_response(user_input)
-    return jsonify({'response': responses[0], 'alternatives': responses[1:]})
-
-def get_chatbot_response(user_input):
+def get_chatbot_response(user_input, vectorizer, query_vector, training_data, threshold=0.2):
     preprocessed_input = preprocess(user_input)
-    query_vector_input = app.config['vectorizer'].transform([preprocessed_input])
-    similarities = cosine_similarity(query_vector_input, app.config['query_vector'])
-    most_similar_indices = similarities.argsort()[0][::-1]
+    query_vector_input = vectorizer.transform([preprocessed_input])  # Transform the preprocessed input
+    similarities = cosine_similarity(query_vector_input, query_vector)  # Compute cosine similarities
+    most_similar_indices = similarities.argsort()[0][::-1]  # Sort indices in descending order
     responses = []
     for index in most_similar_indices:
         similarity_score = similarities[0][index]
-        if similarity_score >= app.config['threshold']:
-            responses.append((app.config['training_data'][index][1], similarity_score))
-    responses.sort(key=lambda x: x[1], reverse=True)
+        if similarity_score >= threshold:
+            responses.append((training_data[index][1], similarity_score))
+    responses.sort(key=lambda x: x[1], reverse=True)  # Sort responses by similarity score in descending order
     return [response[0] for response in responses]
 
 @app.route('/')
 def index():
     return render_template('index.html')
 
+@app.route('/get_response', methods=['POST'])
+def get_response():
+    user_input = request.json['user_input']
+    responses = get_chatbot_response(user_input, app.config['vectorizer'], query_vector, training_data)
+    return jsonify({'response': responses[0], 'alternatives': responses[1:]})
+
 if __name__ == '__main__':
     training_data = load_training_data()
     vectorizer, query_vector = train_chatbot(training_data)
     app.config['vectorizer'] = vectorizer
-    app.config['query_vector'] = query_vector
-    app.config['training_data'] = training_data
-    app.config['threshold'] = 0.2
     app.run(debug=True)
