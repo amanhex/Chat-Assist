@@ -2,10 +2,13 @@ from flask import Flask, render_template, request, jsonify
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.tokenize import word_tokenize
+import nltk
 import string
 import json
 
 app = Flask(__name__)
+
+nltk.download('punkt')
 
 def preprocess(text):
     # Tokenize the text
