@@ -462,5 +462,77 @@
   {
     "question": "What is the largest planet in our solar system?",
     "answer": "The largest planet in our solar system is Jupiter."
+  },
+  {
+    "question": "Which anime has the best animation?",
+    "answer": "Many people would say that Demon Slayer: Kimetsu no Yaiba has the best animation. The show is known for its fluid and detailed animation, which really brings the characters and world to life."
+  },
+  {
+    "question": "Is Demon Slayer good?",
+    "answer": "Demon Slayer is a very popular anime, and for good reason. The show has a great story, likeable characters, and some of the best animation in anime history. If you're a fan of anime, then you should definitely check out Demon Slayer."
+  },
+  {
+    "question": "Is Sukuna evil?",
+    "answer": "Sukuna is a powerful demon who is the main antagonist of Jujutsu Kaisen. He is a very cruel and sadistic demon who enjoys killing and torturing people. However, there is also a part of Sukuna that is still human, and he can be very charming and charismatic. Ultimately, whether or not Sukuna is evil is up to the viewer to decide."
+  },
+  {
+    "question": "Who is Iron Man?",
+    "answer": "Iron Man is a fictional superhero who appears in American comic books published by Marvel Comics. He is the alter ego of Tony Stark, a wealthy industrialist and genius inventor. Iron Man first appeared in Tales of Suspense #39 (cover dated March 1963), and was co-created by writer-editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby."
+  },
+  {
+    "question": "Which movie has the best soundtrack?",
+    "answer": "Many people would say that The Greatest Showman has the best soundtrack. The show is known for its catchy songs and inspiring lyrics."
+  },
+  {
+    "question": "Is The Godfather a good movie?",
+    "answer": "The Godfather is a very popular movie, and for good reason. The movie is a classic crime drama that tells the story of a powerful Mafia family. The Godfather is well-acted, well-directed, and well-written. If you haven't seen it, then you should definitely check it out."
+  },
+  {
+    "question": "Who is the best actor in the world?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most popular actors in the world include Robert Downey Jr., Leonardo DiCaprio, and Meryl Streep."
+  },
+  {
+    "question": "Which anime is the most popular?",
+    "answer": "According to a recent poll, Demon Slayer: Kimetsu no Yaiba is the most popular anime in the world. The show has been a huge hit, and it has won numerous awards."
+  },
+  {
+    "question": "Which anime is the best?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most popular and critically acclaimed anime include Neon Genesis Evangelion, Fullmetal Alchemist: Brotherhood, and Attack on Titan."
+  },
+  {
+    "question": "What is the best anime to watch for beginners?",
+    "answer": "Some of the best anime to watch for beginners include My Hero Academia, One Punch Man, and Jujutsu Kaisen. These shows are all well-written and well-animated, and they are a great introduction to the world of anime."
+  },
+  {
+    "question": "Who is the most famous celebrity in the world?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most famous celebrities in the world include Beyoncé, Taylor Swift, and Cristiano Ronaldo."
+  },
+  {
+    "question": "Who is the richest celebrity in the world?",
+    "answer": "According to Forbes, the richest celebrity in the world is Elon Musk. Musk is a business magnate and investor who is the founder of SpaceX and Tesla."
+  },
+  {
+    "question": "Who is the most influential celebrity in the world?",
+    "answer": "This is a very subjective question, and there is no one definitive answer. However, some of the most influential celebrities in the world include Malala Yousafzai, Greta Thunberg, and Beyoncé."
+  },
+  {
+    "question": "What is Attack on Titan about?",
+    "answer": "Attack on Titan is a Japanese dark fantasy anime television series, adapted from the manga series of the same name by Hajime Isayama, that premiered on April 7, 2013. It has aired on NHK General TV in Japan, and Aniplus Asia in various Asia-Pacific countries. In the United States and Canada, the series has been streamed on Crunchyroll, Funimation, Netflix, Amazon Prime Video, and Hulu.Attack on Titan has also aired on Adult Swim's Toonami programming block in the U.S. ... Set in a post-apocalyptic world where the remains of humanity live behind walls protecting them from giant humanoid Titans, Attack on Titan follows protagonist Eren Yeager, along with friends Mikasa Ackerman and Armin Arlert. When a Colossal Titan breaches the wall of their hometown, Titans destroy the city and eat Eren's mother. Eren vows to avenge his mother's death and destroy all the Titans. He joins the Scouting Legion, an elite group of soldiers who fight Titans outside the walls. Eren, Mikasa, and Armin must use their strength and courage to survive in a world where humanity is on the brink of extinction."
+  },
+  {
+    "question": "What are the main characters in Attack on Titan?",
+    "answer": "The main characters in Attack on Titan are Eren Yeager, Mikasa Ackerman, and Armin Arlert. Eren Yeager is the protagonist of Attack on Titan. He is a young man who is determined to avenge his mother's death and destroy all the Titans. Eren has the ability to transform into a Titan, which gives him a powerful advantage in battle. Mikasa Ackerman is Eren's childhood friend and adoptive sister. She is a skilled fighter and is fiercely protective of Eren. Mikasa is also very intelligent and resourceful. Armin Arlert is Eren's best friend. He is a brilliant strategist and tactician. Armin is also very brave and is willing to sacrifice himself for his friends. Together, Eren, Mikasa, and Armin must use their strength and courage to survive in a world where humanity is on the brink of extinction."
+  },
+  {
+    "question": "What are the Titans?",
+    "answer": "The Titans are the main antagonists of Attack on Titan. They are giant humanoid creatures that eat humans. Titans are incredibly strong and durable, and they have no intelligence or emotions. They are driven by a single instinct: to eat humans. The Titans are a mystery to humanity. No one knows where they came from or why they eat humans. However, one thing is for sure: the Titans are a threat to humanity's survival."
+  },
+  {
+    "question": "What are the walls?",
+    "answer": "The walls are the only thing that protects humanity from the Titans. They are three massive walls that surround the last remaining human cities. The walls are made of a special material that is impervious to Titan attacks. The walls were built 100 years ago by the First King of the Walls. The First King believed that the Titans were a punishment from God, and he wanted to protect humanity from them. The walls have worked for 100 years, but they are now under threat from a new enemy."
+  },
+  {
+    "question": "What is the Survey Corps?",
+    "answer": "The Survey Corps is an elite group of soldiers who fight Titans outside the walls. They are the only ones who know the truth about the Titans, and they are dedicated to fighting them and protecting humanity. The Survey Corps is led by Commander Erwin Smith. Erwin is a brilliant strategist and a skilled fighter. He is also very determined to find the truth about the Titans and to protect humanity. The Survey Corps is the last hope for humanity's survival. They are the only ones who can fight the Titans and protect the walls. The Survey Corps is humanity's last line of defense."
   }
 ]
