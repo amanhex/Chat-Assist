@@ -580,6 +580,10 @@
     "answer": "Gojo's quote is: The world is a beautiful place, isn't it?"
   },
   {
+    "question": "Who is naruto Uzumaki?",
+    "answer": "Naruto Uzumaki is the main protagonist of Naruto. He is a young ninja who dreams of becoming Hokage, the leader of his village."
+  },
+  {
     "question": "Who is the main protagonist character of Naruto?",
     "answer": "Naruto Uzumaki is the main protagonist of Naruto. He is a young ninja who dreams of becoming Hokage, the leader of his village."
   },
