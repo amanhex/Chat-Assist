@@ -534,5 +534,101 @@
   {
     "question": "What is the Survey Corps?",
     "answer": "The Survey Corps is an elite group of soldiers who fight Titans outside the walls. They are the only ones who know the truth about the Titans, and they are dedicated to fighting them and protecting humanity. The Survey Corps is led by Commander Erwin Smith. Erwin is a brilliant strategist and a skilled fighter. He is also very determined to find the truth about the Titans and to protect humanity. The Survey Corps is the last hope for humanity's survival. They are the only ones who can fight the Titans and protect the walls. The Survey Corps is humanity's last line of defense."
+  },
+  {
+    "question": "Who is Eren Yeager",
+    "answer": "Eren Yeager | Villains Wiki | Fandom Eren Yeager is the main protagonist of the Attack on Titan series. He is a former member of the Survey Corps, the leader of the Yeagerists, the last inheritor of the Attack Titan and later revealed to be the Founding Titan as well. Later in the story, he becomes the inheritor of the War Hammer Titan."
+  },
+  {
+    "question": "What is Jujutsu Kaisen about?",
+    "answer": "Jujutsu Kaisen is a Japanese dark fantasy manga series about a high school student who becomes a jujutsu sorcerer to fight cursed spirits."
+  },
+  {
+    "question": "Who are the main characters in Jujutsu Kaisen?",
+    "answer": "The main characters in Jujutsu Kaisen are Yuji Itadori, Megumi Fushiguro, and Nobara Kugisaki."
+  },
+  {
+    "question": "What are cursed spirits?",
+    "answer": "Cursed spirits are malevolent beings that feed on human negative emotions."
+  },
+  {
+    "question": "What is jujutsu?",
+    "answer": "Jujutsu is a form of magic that allows users to exorcise cursed spirits."
+  },
+  {
+    "question": "Who is Satoru Gojo?",
+    "answer": "Satoru Gojo is a Special Grade Jujutsu Sorcerer and the strongest Jujutsu Sorcerer in the world."
+  },
+  {
+    "question": "Why is Satoru Gojo so famous?",
+    "answer": "Gojo is famous for his immense strength and power, as well as his carefree and laid-back personality."
+  },
+  {
+    "question": "What are Gojo's powers?",
+    "answer": "Gojo has a number of powerful abilities, including the Limitless Cursed Technique, which allows him to manipulate space and time."
+  },
+  {
+    "question": "Why is Gojo Satoru so popular",
+    "answer": "Gojo is a popular character for a number of reasons, including his strength, cool personality, sense of humor, and fashionable sense of style."
+  },
+  {
+    "question": "What is Satoru Gojo's backstory?",
+    "answer": "Gojo was born into a family of jujutsu sorcerers. He was a prodigy from a young age and quickly rose through the ranks of the jujutsu world. Gojo is a skilled teacher and is dedicated to protecting the world from cursed spirits."
+  },
+  {
+    "question": "What is Satoru Gojo's quote?",
+    "answer": "Gojo's quote is: The world is a beautiful place, isn't it?"
+  },
+  {
+    "question": "Who is the main protagonist character of Naruto?",
+    "answer": "Naruto Uzumaki is the main protagonist of Naruto. He is a young ninja who dreams of becoming Hokage, the leader of his village."
+  },
+  {
+    "question": "What is Naruto's backstory?",
+    "answer": "Naruto was born as the jinchūriki of the Nine-Tails, a powerful demon fox. Because of this, he was shunned and hated by the villagers of Konohagakure."
+  },
+  {
+    "question": "What are Naruto's powers?",
+    "answer": "Naruto has a number of powerful abilities, including: Rasengan, Sage Mode and Kurama Mode."
+  },
+  {
+    "question": "What is the story of Naruto?",
+    "answer": "The story of Naruto follows Naruto's journey to become Hokage. Naruto faces many challenges along the way, but he never gives up on his dreams. Naruto eventually achieves his dream and becomes Hokage, and he leads his village to peace."
+  },
+  {
+    "question": "Who is Sasuke Uchiha?",
+    "answer": "Sasuke Uchiha is a skilled ninja who is also Naruto's rival. Sasuke is a member of the Uchiha clan, and he is known for his powerful Sharingan eyes. Sasuke is a skilled swordsman, and he is also a skilled user of fire techniques. Sasuke is a complex character who is driven by revenge, but he eventually finds redemption."
+  },
+  {
+    "question": "Who is Itachi Uchiha?",
+    "answer": "Itachi Uchiha is a skilled ninja who is also Sasuke's older brother. Itachi is a member of the Uchiha clan, and he is known for his powerful Sharingan eyes. Itachi is a skilled assassin, and he is also a skilled user of fire techniques. Itachi is a tragic character who is forced to make difficult choices."
+  },
+  {
+    "question": "Who is Pain?",
+    "answer": "Pain is the leader of Akatsuki, and he is one of the most powerful ninjas in the world. Pain is a skilled user of the Rinnegan, a powerful eye technique. Pain is also a skilled user of chakra, and he is able to create powerful illusions. Pain is a complex character who is driven by a desire for peace."
+  },
+  {
+    "question": "Who is Sakura Haruno?",
+    "answer": "Sakura Haruno is a kind and compassionate kunoichi who is also Naruto's friend and love interest. Sakura is a skilled medical ninja, and she is also a skilled kunoichi. Sakura is a strong and determined character who is always willing to help others."
+  },
+  {
+    "question": "Who is Hinata Hyuga?",
+    "answer": "Hinata Hyuga is a kind and compassionate kunoichi who is also Naruto's love interest. Hinata is a member of the Hyuga clan, and she is known for her powerful Byakugan eyes. Hinata is a skilled taijutsu fighter, and she is also a skilled kunoichi. Hinata is a strong and determined character who is always willing to help others."
+  },
+  {
+    "question": "Who is Tsunade?",
+    "answer": "Tsunade is the Fifth Hokage of Konohagakure, and she is one of the most powerful kunoichi in the world. Tsunade is a skilled medical ninja, and she is also a skilled kunoichi. Tsunade is a strong and determined character who is always willing to protect her village."
+  },
+  {
+    "question": "Who is Kakashi Hatake?",
+    "answer": "Kakashi Hatake is a skilled ninja who is also Naruto's sensei. Kakashi is a member of the Hatake clan, and he is known for his Sharingan eyes. Kakashi is a skilled swordsman, and he is also a skilled user of lightning techniques. Kakashi is a wise and experienced character who is always willing to help others."
+  },
+  {
+    "question": "Who is Minato Namikaze?",
+    "answer": "Minato Namikaze is the Fourth Hokage of Konohagakure, and he is considered to be one of the strongest ninjas in the world. Minato is a skilled taijutsu fighter, and he is also a skilled user of fire and teleportation techniques. Minato is a wise and experienced character who is always willing to protect his village."
+  },
+  {
+    "question": "Who is Madara Uchiha?",
+    "answer": "Madara Uchiha is one of the most powerful ninjas in the world, and he is also the founder of Akatsuki. Madara is a member of the Uchiha clan, and he is known for his powerful Sharingan eyes. Madara is a skilled swordsman, and he is also a skilled user of fire techniques. Madara is a complex character who is driven by ambition and power."
   }
 ]
