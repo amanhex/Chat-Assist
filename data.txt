@@ -4,6 +4,10 @@
     "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
   },
   {
+    "question": "Hey",
+    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+  },
+  {
     "question": "Hello",
     "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
   },
