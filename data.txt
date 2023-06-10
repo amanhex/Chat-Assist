@@ -1,19 +1,19 @@
 [
   {
     "question": "Hi",
-    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+    "answer": "Hi, I'm an AI ChatBot, Chat-Assist. How can I help you?"
   },
   {
     "question": "Hey",
-    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+    "answer": "Hi, I'm an AI ChatBot, Chat-Assist. How can I help you?"
   },
   {
     "question": "Hello",
-    "answer": "Hi, I'm an AI ChatBot, Assist. How can I help you?"
+    "answer": "Hi, I'm an AI ChatBot, Chat-Assist. How can I help you?"
   },
   {
     "question": "What is your name?",
-    "answer": "My name is Assist."
+    "answer": "My name is Chat-Assist."
   },
   {
     "question": "How are you?",
@@ -306,10 +306,6 @@
   {
     "question": "What is the capital of France?",
     "answer": "The capital of France is Paris."
-  },
-  {
-    "question": "How do I make a healthy smoothie?",
-    "answer": "To make a healthy smoothie, start by selecting a variety of fruits and vegetables. Add a liquid base such as water, milk, or yogurt. You can also include protein sources like nuts, seeds, or protein powder. Blend all the ingredients together until smooth. You can customize your smoothie by adding sweeteners like honey or dates, spices like cinnamon, or superfood additions like chia seeds or spinach."
   },
   {
     "question": "What is the tallest building in the world?",
